@@ -1,0 +1,4 @@
+////   ALL TERMINAL COMMANDS
+
+npx create-react-app smart-spend-ui     //CREATE A REACT APP name smart-spend-ui
+npm start             //START THE REACT APP
